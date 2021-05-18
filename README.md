@@ -1,0 +1,2 @@
+# DC-motor
+Details
